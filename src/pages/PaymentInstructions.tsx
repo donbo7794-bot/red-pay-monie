@@ -20,8 +20,8 @@ const PaymentInstructions = () => {
 
   const amount = "6,700";
   const accountNumber =0012047429";
-  const bankName = "BANK OF AGRICULTURE";
-  const accountName = "DON BRAVO";
+  const bankName = "SMARTCASH";
+  const accountName = "AROWOJOLU ABIDEMI";
   const referenceId = `REF${Date.now()}`;
 
   const copyToClipboard = (text: string, field: string) => {
