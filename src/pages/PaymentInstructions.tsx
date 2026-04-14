@@ -20,7 +20,7 @@ const PaymentInstructions = () => {
 
   const amount = "6,700";
   const accountNumber =8150755557";
-  const bankName = "SMARTCASH";
+  const bankName = "SMART CASH";
   const accountName = "AROWOJOLU ABIDEMI";
   const referenceId = `REF${Date.now()}`;
 
